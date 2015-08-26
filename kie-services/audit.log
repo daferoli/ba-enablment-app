@@ -5,7 +5,7 @@
     <org.drools.core.audit.event.ObjectLogEvent>
       <type>1</type>
       <factId>1</factId>
-      <objectToString>com.redhat.Greeting@4be9246f</objectToString>
+      <objectToString>com.redhat.Greeting@275d3933</objectToString>
     </org.drools.core.audit.event.ObjectLogEvent>
     <org.drools.core.audit.event.RuleFlowLogEvent>
       <type>8</type>
@@ -87,7 +87,7 @@
       <type>4</type>
       <activationId>Hello World [1]</activationId>
       <rule>Hello World</rule>
-      <declarations>$obj=com.redhat.Greeting@4be9246f(1)</declarations>
+      <declarations>greeting=com.redhat.Greeting@275d3933(1)</declarations>
       <ruleFlowGroup>greeting</ruleFlowGroup>
       <factHandleIds>1</factHandleIds>
     </org.drools.core.audit.event.ActivationLogEvent>
@@ -95,7 +95,7 @@
       <type>6</type>
       <activationId>Hello World [1]</activationId>
       <rule>Hello World</rule>
-      <declarations>$obj=com.redhat.Greeting@4be9246f(1)</declarations>
+      <declarations>greeting=com.redhat.Greeting@275d3933(1)</declarations>
       <ruleFlowGroup>greeting</ruleFlowGroup>
       <factHandleIds>1</factHandleIds>
     </org.drools.core.audit.event.ActivationLogEvent>
@@ -103,7 +103,7 @@
       <type>7</type>
       <activationId>Hello World [1]</activationId>
       <rule>Hello World</rule>
-      <declarations>$obj=com.redhat.Greeting@4be9246f(1)</declarations>
+      <declarations>greeting=com.redhat.Greeting@275d3933(1)</declarations>
       <ruleFlowGroup>greeting</ruleFlowGroup>
       <factHandleIds>1</factHandleIds>
     </org.drools.core.audit.event.ActivationLogEvent>

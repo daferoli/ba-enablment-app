@@ -14,4 +14,10 @@
 		<module>kie-services</module>
 	</modules>
 
+	<distributionManagement>
+		<snapshotRepository>
+			<id>deployment</id>
+			<url>http://nexus-rhcbap.rhcloud.com/nexus/content/repositories/snapshots</url>
+		</snapshotRepository>
+	</distributionManagement>
 </project>
